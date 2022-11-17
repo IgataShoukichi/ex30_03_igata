@@ -1,0 +1,14 @@
+C:\Users\222e020\source\repos\Ex28_template\Ex28_template\bin\Debug\netcoreapp3.1\Ex28_template.exe
+C:\Users\222e020\source\repos\Ex28_template\Ex28_template\bin\Debug\netcoreapp3.1\Ex28_template.deps.json
+C:\Users\222e020\source\repos\Ex28_template\Ex28_template\bin\Debug\netcoreapp3.1\Ex28_template.runtimeconfig.json
+C:\Users\222e020\source\repos\Ex28_template\Ex28_template\bin\Debug\netcoreapp3.1\Ex28_template.runtimeconfig.dev.json
+C:\Users\222e020\source\repos\Ex28_template\Ex28_template\bin\Debug\netcoreapp3.1\Ex28_template.dll
+C:\Users\222e020\source\repos\Ex28_template\Ex28_template\bin\Debug\netcoreapp3.1\Ex28_template.pdb
+C:\Users\222e020\source\repos\Ex28_template\Ex28_template\obj\Debug\netcoreapp3.1\Ex28_template.csproj.AssemblyReference.cache
+C:\Users\222e020\source\repos\Ex28_template\Ex28_template\obj\Debug\netcoreapp3.1\Ex28_template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\222e020\source\repos\Ex28_template\Ex28_template\obj\Debug\netcoreapp3.1\Ex28_template.AssemblyInfoInputs.cache
+C:\Users\222e020\source\repos\Ex28_template\Ex28_template\obj\Debug\netcoreapp3.1\Ex28_template.AssemblyInfo.cs
+C:\Users\222e020\source\repos\Ex28_template\Ex28_template\obj\Debug\netcoreapp3.1\Ex28_template.csproj.CoreCompileInputs.cache
+C:\Users\222e020\source\repos\Ex28_template\Ex28_template\obj\Debug\netcoreapp3.1\Ex28_template.dll
+C:\Users\222e020\source\repos\Ex28_template\Ex28_template\obj\Debug\netcoreapp3.1\Ex28_template.pdb
+C:\Users\222e020\source\repos\Ex28_template\Ex28_template\obj\Debug\netcoreapp3.1\Ex28_template.genruntimeconfig.cache
